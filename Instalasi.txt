@@ -1,0 +1,9 @@
+1. Install aplikasi Wampp -> http://www.wampserver.com/en/
+2. Buka folder Wampp, Ekstrak file obat.rar di folder www
+3. Buka aplikasi Wampp
+4. Buka browser
+5. Ketik localhost/phpmyadmin
+6. Buat database bernama db_obat
+7. Import database, buka folder obat -> pilih file db_obat.sql
+8. Ketik localhost/obat
+9. Selesai
